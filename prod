@@ -1,0 +1,3 @@
+# prod 文件（生产环境，可选）
+MONGO_URI=mongodb+srv://<用户名>:<密码>@<集群地址>/my-db  # 远程 MongoDB 地址
+PORT=8080
